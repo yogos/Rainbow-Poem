@@ -5,6 +5,7 @@ ping
 orange
 blue
 green
+indigo
 unicorn
 another unicorn
 yellow
