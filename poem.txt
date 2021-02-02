@@ -8,6 +8,7 @@ green
 indigo
 recycle!
 unicorn
+this is unique unicorn
 another unicorn
 yellow
 red
